@@ -219,10 +219,6 @@ namespace LTAT_Project
             thr.Start();
         }
 
-        private void btnGetIP_Click(object sender, EventArgs e)
-        {
-            
-        }
 
         private void btnSendNoise_Click(object sender, EventArgs e)
         {
